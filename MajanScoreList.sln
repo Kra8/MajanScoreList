@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajanScoreList.Droid", "Dro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajanScoreList.iOS", "iOS\MajanScoreList.iOS.csproj", "{EB7FDA19-3DFC-4976-A25B-D9156BD25212}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajanScoreListTests", "MajanScoreListTests\MajanScoreListTests.csproj", "{4E61AF19-5EA4-40F3-9980-04A2474F7A59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,17 @@ Global
 		{EB7FDA19-3DFC-4976-A25B-D9156BD25212}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 		{EB7FDA19-3DFC-4976-A25B-D9156BD25212}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{EB7FDA19-3DFC-4976-A25B-D9156BD25212}.Debug|iPhone.Build.0 = Debug|iPhone
+		{4E61AF19-5EA4-40F3-9980-04A2474F7A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E61AF19-5EA4-40F3-9980-04A2474F7A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E61AF19-5EA4-40F3-9980-04A2474F7A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E61AF19-5EA4-40F3-9980-04A2474F7A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E61AF19-5EA4-40F3-9980-04A2474F7A59}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{4E61AF19-5EA4-40F3-9980-04A2474F7A59}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{4E61AF19-5EA4-40F3-9980-04A2474F7A59}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{4E61AF19-5EA4-40F3-9980-04A2474F7A59}.Release|iPhone.Build.0 = Release|Any CPU
+		{4E61AF19-5EA4-40F3-9980-04A2474F7A59}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{4E61AF19-5EA4-40F3-9980-04A2474F7A59}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{4E61AF19-5EA4-40F3-9980-04A2474F7A59}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{4E61AF19-5EA4-40F3-9980-04A2474F7A59}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
