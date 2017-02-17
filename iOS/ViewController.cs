@@ -15,8 +15,6 @@ namespace MajanScoreList.iOS
 		UILabel[] HanHeaders 	= new UILabel[4];
 		UILabel[] HuHeaders 	= new UILabel[11];
 
-		ScoreType State 		= ScoreType.Child;
-
 		public ViewController(IntPtr handle) : base(handle)
 		{
 			this.View.AddSubview(this.ChildButton);
