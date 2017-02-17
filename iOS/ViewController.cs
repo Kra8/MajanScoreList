@@ -160,8 +160,6 @@ namespace MajanScoreList.iOS
 			}
 		}
 
-
-
 		public override void DidReceiveMemoryWarning()
 		{
 			base.DidReceiveMemoryWarning();
